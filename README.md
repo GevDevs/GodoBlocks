@@ -8,3 +8,5 @@
  I'm not going to completely ditch the game any time soon but I don't see myself doing any more updates to the game. So that's why I'm going to leave GodoBlocks for you to continue. Here on this webpage is every single backup of the GodoBlocks Client source code that I've made. From November of 2021, all the way to present day. If you wish to obtain the source code for the website or have any other inquiries, you can email me at [blocksgodo@gmail.com](mailto:blocksgodo@gmail.com). With all that said, I'm sorry.
  
  -Gev
+
+PS: Most assets are obviously owned by Roblox Corp. so if you want to fork this for commercial use, maybe change the textures and sounds first so you don't get sued into oblivion.
